@@ -1,0 +1,5 @@
+django==4.1
+whitenoise
+python-dotenv 
+requests
+django-crispy-forms
